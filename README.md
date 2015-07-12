@@ -1,2 +1,2 @@
-`mango-cli` Github pages
+`aktivniobcanstvi.cz` website
 ========================
