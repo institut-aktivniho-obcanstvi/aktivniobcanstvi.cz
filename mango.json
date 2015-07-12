@@ -1,6 +1,6 @@
 {
   "src_folder": "src",
-  "dist_folder": "dist",
+  "dist_folder": "",
   "styles": [
     "src/styles/screen.styl"
   ],
